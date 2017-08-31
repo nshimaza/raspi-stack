@@ -1,2 +1,2 @@
 # raspi-stack
-Haskell Stack in QEMU emulated Raspbian Docker image
+Haskell Stack for ARM in QEMU emulated Raspbian Docker image
